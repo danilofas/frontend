@@ -1,0 +1,11 @@
+.novo-produto-container{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: 100%;
+}
+
+.form-produto{
+    display: flex;
+    justify-content: center;
+}
